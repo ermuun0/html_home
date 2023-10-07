@@ -1,0 +1,45 @@
+table{
+    width: 1000px;
+    margin: 0 auto;
+    background-color: rgb(244, 246, 247);
+    border-collapse: collapse ;
+
+}
+td, th{
+    border: 1px solid grey;
+    }
+    img{
+        
+       border-radius: 50%;
+       height: 100px;
+       width: 100px;
+    }
+    h1#h1{
+        text-align: left;
+        font-family: serif;
+        font-weight: lighter;
+    
+    
+    }
+    h3#h3{
+        font-family: monospace;
+        font-weight: lighter;
+        text-align: left;
+    }
+    .ul{
+        list-style-type: none;
+        text-align: left;
+    }
+    #ul{
+        list-style-type: none;
+    }
+    .td1{
+        margin-left: 40px;
+    }
+    .td2{
+        margin-left: 40px;
+        color: aqua;
+    }
+    .h1{
+        text-align: center;
+    }
